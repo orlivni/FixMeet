@@ -1,0 +1,8 @@
+C:\Users\orliv\source\repos\FixMeet\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\orliv\source\repos\FixMeet\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\orliv\source\repos\FixMeet\ClassLibrary\bin\Debug\Dapper.dll
+C:\Users\orliv\source\repos\FixMeet\ClassLibrary\bin\Debug\Dapper.xml
+C:\Users\orliv\source\repos\FixMeet\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\orliv\source\repos\FixMeet\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\orliv\source\repos\FixMeet\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\orliv\source\repos\FixMeet\ClassLibrary\obj\Debug\ClassLibrary.pdb

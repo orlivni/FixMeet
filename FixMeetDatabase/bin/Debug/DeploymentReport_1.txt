@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Supplier].[Address] is being dropped, data loss could occur.
+       The column [dbo].[Supplier].[Category] is being dropped, data loss could occur.
+       The column [dbo].[Supplier].[Password] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[Supplier] (Foreign Key)
+       unnamed constraint on [dbo].[Supplier] (Foreign Key)
+     Alter
+       [dbo].[Supplier] (Table)
+
+** Supporting actions
+
+The column [dbo].[Supplier].[Address] is being dropped, data loss could occur.
+The column [dbo].[Supplier].[Category] is being dropped, data loss could occur.
+The column [dbo].[Supplier].[Password] is being dropped, data loss could occur.
+

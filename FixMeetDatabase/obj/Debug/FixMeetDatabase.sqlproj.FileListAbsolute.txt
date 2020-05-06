@@ -1,0 +1,10 @@
+C:\Users\orliv\source\repos\FixMeet\FixMeetDatabase\bin\Debug\FixMeetDatabase.dacpac
+C:\Users\orliv\source\repos\FixMeet\FixMeetDatabase\obj\Debug\FixMeetDatabase.sqlprojAssemblyReference.cache
+C:\Users\orliv\source\repos\FixMeet\FixMeetDatabase\obj\Debug\FixMeetDatabase.dll
+C:\Users\orliv\source\repos\FixMeet\FixMeetDatabase\obj\Debug\FixMeetDatabase.pdb
+C:\Users\orliv\source\repos\FixMeet\FixMeetDatabase\bin\Debug\FixMeetDatabase.dll
+C:\Users\orliv\source\repos\FixMeet\FixMeetDatabase\bin\Debug\FixMeetDatabase.pdb
+C:\Users\orliv\source\repos\FixMeet\FixMeetDatabase\obj\Debug\Model.xml
+C:\Users\orliv\source\repos\FixMeet\FixMeetDatabase\obj\Debug\refactor.xml
+C:\Users\orliv\source\repos\FixMeet\FixMeetDatabase\obj\Debug\postdeploy.sql
+C:\Users\orliv\source\repos\FixMeet\FixMeetDatabase\obj\Debug\predeploy.sql
